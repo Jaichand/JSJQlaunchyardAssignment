@@ -1,4 +1,4 @@
-## JSJQlaunchyardAssignment
+## launchyard Assignment using JavaScript and jQuery
 
 List of people
 
