@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Sanchez Hopkins",
+    "designation": "Founder and CEO",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/james_king.jpg"
+  },
+  {
+    "name": "Abigail Shields",
+    "designation": "Software Engineer",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/amy_jones.jpg"
+  },
+  {
+    "name": "Juliette Thompson",
+    "designation": "Frontend engineer",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/eugene_lee.jpg"
+  },
+  {
+    "name": "Marks Whitehead",
+    "designation": "Accountant",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/steven_wells.jpg"
+  },
+  {
+    "name": "Ratliff Murphy",
+    "designation": "Software Engineer",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/ray_moore.jpg"
+  },
+  {
+    "name": "Alyce Hoffman",
+    "designation": "Frontend engineer",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/paula_gates.jpg"
+  },
+  {
+    "name": "Bauer Cantrell",
+    "designation": "Advisor",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/paul_jones.jpg"
+  },
+  {
+    "name": "Talley Hayden",
+    "designation": "Software Engineer",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/julie_taylor.jpg"
+  },
+  {
+    "name": "Gonzalez Hurley",
+    "designation": "Lead Designer",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/kathleen_byrne.jpg"
+  },
+  {
+    "name": "Trina Bishop",
+    "designation": "Designer",
+    "avatar": "http://coenraets.org/apps/angular-directory/pics/lisa_wong.jpg"
+  }
+]
